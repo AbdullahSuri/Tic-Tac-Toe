@@ -123,8 +123,3 @@ To run the test suite, use:
 ```bash
 npm test
 ```
-
-## Example Scenarios
-
-1. **3x3 Game**: Classic Tic-Tac-Toe with a default configuration.
-2. **5x5 Game**: Use the `testWidthFive.json` configuration for a larger board.
