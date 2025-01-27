@@ -22,7 +22,7 @@ The Tic-Tac-Toe Game is a JavaScript-based implementation that allows a player t
 
 ## Features
 
-- **Customizable Board Sizes**: Supports any square board size (e.g., 3x3, 4x4, 5x5).
+- **Customizable Board Sizes**: Supports many square board size (e.g., 3x3, 4x4, 5x5).
 - **Player vs. Computer**: Allows a human player to compete against a computer.
 - **Computer AI**: Computer generates valid moves and utilizes pre-configured moves if available.
 - **Configurable Game States**: Load a game state from a JSON configuration file.
