@@ -50,7 +50,7 @@ Ensure Node.js is installed on your system.
    ```
 2. Navigate to the project directory:
    ```bash
-   cd tic-tac-toe
+   cd Tic-Tac-Toe
    ```
 3. Install dependencies:
    ```bash
@@ -118,8 +118,10 @@ Here is an example `testWidthFive.json` configuration:
 
 ### Running Tests
 
-To run the test suite, use:
+in the root directory run
 
 ```bash
-npm test
+npx mocha test/tic-tac-toe-test.mjs
 ```
+
+npx will download a module if it's not already installed, and run it
